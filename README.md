@@ -1,0 +1,2 @@
+#  linguagem C - IFPA
+ Estudos da disciplina de lógica de programação e algoritmo
